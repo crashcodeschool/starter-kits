@@ -10,4 +10,11 @@ your project, write out the whole thing. It's good practice.
 ### Project Features
 1. vanilla-skeleton
 
-⋅⋅⋅The most basic boilerplate. Includes two pages, home and about, functional links between them, and connected to CSS and JS⋅⋅
+The most basic boilerplate. Includes two pages, home and about, functional links between them, and connected to CSS and JS
+
+2. bootstrap-skeleton
+
+If you want to use a CSS library like bootstrap, this boilerplate outlines how to do that.
+
+It includes two pages, home and about, functional links between them, bootstrap and fontawesome included via CDN, a theme.css
+with Google Material Design, and a style.css for your own styles.
