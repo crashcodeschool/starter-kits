@@ -18,3 +18,8 @@ If you want to use a CSS library like bootstrap, this boilerplate outlines how t
 
 It includes two pages, home and about, functional links between them, bootstrap and fontawesome included via CDN, a theme.css
 with Google Material Design, and a style.css for your own styles.
+
+3. chartjs-skeleton
+
+If you want to use any kind of charting, I've provided an example using a library called [chart.js](https://www.chartjs.org/).
+Also included is the standard bootstrap CDN, with no theme applied to it (only using the container class in this example).
