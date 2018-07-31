@@ -23,3 +23,8 @@ with Google Material Design, and a style.css for your own styles.
 
 If you want to use any kind of charting, I've provided an example using a library called [chart.js](https://www.chartjs.org/).
 Also included is the standard bootstrap CDN, with no theme applied to it (only using the container class in this example).
+
+4. api-fetch-skeleton
+
+This project has only an index.html, style.css, and main.js (no pages, libraries, etc.), but shows how to get data from an API like Giphy.
+Note that if you want to do this in your own projects, we should review the API in question before building anything.
